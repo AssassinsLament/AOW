@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ADB over WIFI</string>
+    <string name="app_vers">1.1</string>
+    <string name="app_dev">AssassinsLament</string>
+</resources>
